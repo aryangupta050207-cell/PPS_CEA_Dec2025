@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int Rs;
+    cout<<"How Much Money You Have";
+    cin>>Rs;
+    cout<<Rs;
+    cout<<"Money After 5 years";
+    cout<<Rs*1000;
+    return 0;
+
+
+}
